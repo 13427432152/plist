@@ -19,7 +19,7 @@
  	<key>needs-shine</key>
  	<true/>
  	<key>url</key>
- 	<string></string>
+ 	<string>http://47.107.61.58:8080/a/pages/game/ico/57.png</string>
  	</dict>
  	<dict>
  	<key>kind</key>
@@ -27,7 +27,7 @@
  	<key>needs-shine</key>
  	<true/>
  	<key>url</key>
- 	<string></string>
+ 	<string>http://47.107.61.58:8080/a/pages/game/ico/512.png</string>
  	</dict>
  	</array>
  	<key>metadata</key>
@@ -41,7 +41,7 @@
  	<key>subtitle</key>
  	<string>APP</string>
  	<key>title</key>
- 	<string>IOS</string>
+ 	<string>奔亿娱乐</string>
  	</dict>
  	</dict>
  	</array>
